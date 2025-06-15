@@ -1,0 +1,21 @@
+﻿Application: 
+1.Business logic, 
+2.DTOs, 
+3.Services, 
+4.Interfaces
+This project has only Interfaces
+
+2. HospitalManagementSystem.Application
+Interfaces/
+
+IDoctorService.cs
+IPatientService.cs
+INurseService.cs
+IAppointmentService.cs
+IBillingService.cs
+ILabTestService.cs
+IMedicationService.cs
+IAdmissionService.cs
+
+DTOs/ (optional)
+Services/ (optional, if some services partially implemented here)

@@ -1,0 +1,24 @@
+﻿/HospitalManagementSystem
+│
+├── /Presentation
+│   ├── Controllers
+│   ├── Views
+│   └── wwwroot
+│
+├── /Application
+│   ├── DTOs
+│   ├── Interfaces
+│   └── Services
+│
+├── /Domain
+│   ├── Entities
+│   └── Enums
+│
+├── /Infrastructure
+│   ├── Repositories
+│   ├── Services
+│   └── Identity
+│
+├── /Persistence
+│   ├── DataContext.cs
+│   └── Migrations/

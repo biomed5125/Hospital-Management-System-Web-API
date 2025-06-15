@@ -1,0 +1,33 @@
+﻿Domain: 
+1.Entities, 
+2.Enums, 
+3.Value Objects
+This project had 
+entity and Authurization/authentication
+
+1. HospitalManagementSystem.Domain
+Entities/
+
+Doctor.cs
+
+Patient.cs
+
+Nurse.cs
+
+Appointment.cs
+
+Bill.cs
+
+BillItem.cs
+
+LabTest.cs
+
+Medication.cs
+
+Admission.cs
+
+User.cs (or ApplicationUser.cs for Identity)
+
+Enums/ (optional)
+
+ValueObjects/ (optional)

@@ -1,0 +1,15 @@
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.deps.json
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.dll
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Application.pdb
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Domain.dll
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\bin\Debug\net9.0\HospitalManagementSystem.Domain.pdb
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.csproj.AssemblyReference.cache
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.AssemblyInfoInputs.cache
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.AssemblyInfo.cs
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\Hospital.BFFAC5B8.Up2Date
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.dll
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\refint\HospitalManagementSystem.Application.dll
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\HospitalManagementSystem.Application.pdb
+D:\MT PROGARMMING C SHARP AND SQL SERVER\projects123\Hospital_AlShaab\HospitalManagementSystem.Application\obj\Debug\net9.0\ref\HospitalManagementSystem.Application.dll
