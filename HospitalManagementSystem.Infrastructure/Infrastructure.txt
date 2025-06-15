@@ -1,0 +1,37 @@
+﻿Infrastructure: 
+1.DB access (EF Core), 
+2.external services
+This project had
+1.DB access
+2.migration of database
+3.seeders
+4.services of interfaces
+
+3. HospitalManagementSystem.Infrastructure
+
+a)Services/
+
+DoctorService.cs
+PatientService.cs
+NurseService.cs
+AppointmentService.cs
+BillingService.cs
+LabTestService.cs
+MedicationService.cs
+AdmissionService.cs
+
+b)Persistence/
+
+ApplicationDbContext.cs
+
+c)Migrations/
+
+
+d)Configuration/
+
+e)IdentityConfig.cs (optional)
+
+
+f)SeedData.cs (optional)
+DefaultAdminSeeder.cs
+DefaultRoleSeeder.cs
