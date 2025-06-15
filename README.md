@@ -28,3 +28,5 @@ HospitalManagementSystem.Web/
 ├── appsettings.json
 ├── HospitalManagementSystem.Web.csproj
 └── ...
+
+Upgrade in progress
